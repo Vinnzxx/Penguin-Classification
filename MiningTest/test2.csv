@@ -1,0 +1,15 @@
+species,island,culmen_length_mm,culmen_depth_mm,flipper_length_mm,body_mass_g,sex
+Adelie,Torgersen,39.1,18.7,181,3750,MALE
+Adelie,Torgersen,39.5,17.4,186,3800,FEMALE
+Adelie,Torgersen,40.3,18,195,3250,FEMALE
+Adelie,Torgersen,36.7,19.3,193,3450,FEMALE
+Chinstrap,Dream,46.5,17.9,192,3500,FEMALE
+Chinstrap,Dream,50,19.5,196,3900,MALE
+Chinstrap,Dream,51.3,19.2,193,3650,MALE
+Chinstrap,Dream,45.4,18.7,188,3525,FEMALE
+Chinstrap,Dream,52.7,19.8,197,3725,MALE
+Gentoo,Biscoe,46.1,13.2,211,4500,FEMALE
+Gentoo,Biscoe,50,16.3,230,5700,MALE
+Gentoo,Biscoe,48.7,14.1,210,4450,FEMALE
+Gentoo,Biscoe,50,15.2,218,5700,MALE
+Gentoo,Biscoe,47.6,14.5,215,5400,MALE
